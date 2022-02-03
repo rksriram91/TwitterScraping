@@ -16,10 +16,10 @@ from tweepy.utils import parse_datetime
 # Step 1: Authentication
 # Go to http://apps.twitter.com and create an app.
 # Copy and paste the keys and tokens below
-consumer_key="D4xppksoR8g3v9ddh27UJan6d"
-consumer_secret="TXNXJxmU4LL8eilqZlzLC3waYjxjYgjaQ2N2IoV6SrEFauvzoL"
-access_token="189840014-fCeRw9l0rWuZTL0kCC1gNmMYZbTQnq1z7X2GKD2H"
-access_token_secret="65P0wnDfqmRHtzLTXVSzmTy1b3ioXIPHaEMFsmguTn2YM"
+consumer_key="****"
+consumer_secret="T***"
+access_token="*****"
+access_token_secret="****"
 
 # Step 2: Provide Input 
 # Provide the screen_name (id) of the Twitter Account you want to scrape
